@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @SudhakarG97
-- 👀 I’m interested in ...java
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...automation
 - 📫 How to reach me ...sudhakarguddeti1997@gmail.com
 
 <!---
